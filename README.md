@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☁️ GOKULANA
+# ☁️ GOKULAN A
 ### **AWS Cloud Engineer | Infrastructure & DevOps Enthusiast**
 
 <a href="https://github.com/gokulscotch">
